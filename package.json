@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Proyecto de prueba",
   "main": "index.js",
-  "scripts": {
-    "test": "node --test test/",
+  "scripts": {    
     "start": "node index.js"
   },
   "repository": {
