@@ -1,0 +1,23 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilvla/node-test.git"
+  },
+  "author": "Neil Llique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilvla/node-test/issues"
+  },
+  "homepage": "https://github.com/neilvla/node-test#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
